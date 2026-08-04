@@ -28,7 +28,7 @@ This project is an interactive Sales Performance Dashboard created using Power B
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here)
+![Sales Dashboard](Dashboard.jpg)
 
 ## Author
 **Sakshi**
